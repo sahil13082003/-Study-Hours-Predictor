@@ -2,6 +2,9 @@
 
 A machine learning web application that predicts exam scores based on study habits using Linear Regression.
 
+🚀 Live Demo
+🌐 View Live App https://study-hours-predictor.onrender.com
+
 ## 📋 Features
 
 - **Smart Prediction**: Uses Linear Regression to predict exam scores
@@ -47,7 +50,7 @@ study_hours_predictor/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/study-hours-predictor.git
+git clone https://github.com/sahil13082003/study-hours-predictor.git
 cd study-hours-predictor
 ```
 
