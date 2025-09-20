@@ -3,7 +3,7 @@
 A machine learning web application that predicts exam scores based on study habits using Linear Regression.
 
 🚀 Live Demo
-🌐 View Live App https://study-hours-predictor.onrender.com
+🌐 View Live App https://study-predictor-production.up.railway.app/
 
 ## 📋 Features
 
